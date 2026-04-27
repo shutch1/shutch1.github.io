@@ -13,10 +13,10 @@ title                    : "Spencer Hutchinson"
 title_separator          : "-"
 name                     : &name "Spencer Hutchinson"
 description              : &description "Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://spencerhutchinson.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://shutch1.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "spencerhutchinson/spencerhutchinson.github.io"
+repository               : "shutch1/shutch1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara. Research interests: safe learning and control, online optimization, bandit learning, and smart grid applications."
   location         : "Santa Barbara, CA"
   employer         : "University of California, Santa Barbara"
-  uri              : "https://spencerhutchinson.github.io"
+  uri              : "https://shutch1.github.io"
   email            : "spencer.hutch99@gmail.com" 
 
   # Academic websites
