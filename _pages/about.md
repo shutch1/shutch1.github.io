@@ -15,7 +15,7 @@ I am also fortunate to have done an internship at Mitsubishi Electric Research L
 
 ## Selected Publications
 
-- S. Hutchinson and M. Alizadeh, "Constrained Online Convex Optimization with Polyak Feasibility Steps," International Conference on Machine Learning (ICML), 2025. [link](https://proceedings.mlr.press/v267/hutchinson25a.html)
-- S. Hutchinson, B. Turan, and M. Alizadeh, "Directional Optimism for Safe Linear Bandits," International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [link](https://proceedings.mlr.press/v238/hutchinson24a.html)
-- S. Hutchinson, B. Turan, and M. Alizadeh, "Safe Pricing Mechanisms for Distributed Resource Allocation with Bandit Feedback," IEEE Transactions on Control of Network Systems (TCNS), 2024. [link](https://doi.org/10.1109/TCNS.2024.3372143)
+- **S. Hutchinson** and M. Alizadeh, "Constrained Online Convex Optimization with Polyak Feasibility Steps," International Conference on Machine Learning (ICML), 2025. [proceedings.mlr.press/v267/hutchinson25a.html](https://proceedings.mlr.press/v267/hutchinson25a.html)
+- **S. Hutchinson**, B. Turan, and M. Alizadeh, "Directional Optimism for Safe Linear Bandits," International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [proceedings.mlr.press/v238/hutchinson24a.html](https://proceedings.mlr.press/v238/hutchinson24a.html)
+- **S. Hutchinson**, B. Turan, and M. Alizadeh, "Safe Pricing Mechanisms for Distributed Resource Allocation with Bandit Feedback," IEEE Transactions on Control of Network Systems (TCNS), 2024. [doi.org/10.1109/TCNS.2024.3372143](https://doi.org/10.1109/TCNS.2024.3372143)
 
