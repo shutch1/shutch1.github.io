@@ -23,10 +23,10 @@ repository               : "shutch1/shutch1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "IMG_5383.JPG"
   name             : "Spencer Hutchinson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara. Research interests: safe learning and control, online optimization, bandit learning, and smart grid applications."
+  bio              : "Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara."
   location         : "Santa Barbara, CA"
   employer         : "University of California, Santa Barbara"
   uri              : "https://shutch1.github.io"
