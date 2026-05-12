@@ -27,5 +27,6 @@ author_profile: true
 
 ## Preprints and Workshop Papers
 
-- **S. Hutchinson**, N. Jiang, and M. Alizadeh, "Near-Optimal Regret for the Safe Learning-based Control of the Constrained Linear Quadratic Regulator," April 2026, [arXiv:2604.22158](https://arxiv.org/abs/2604.22158).
+- **S. Hutchinson**, N. Jiang, and M. Alizadeh, "Rate-Optimal Regret for the Safe Learning-based Control of the Constrained Linear Quadratic Regulator," 2026, [arXiv:2604.22158](https://arxiv.org/abs/2604.22158).
+- V. Hebbar, **S. Hutchinson**, M. Alizadeh, C. Langbort, "Steady-state Based Approach to Online Non-stochastic Control," 2026, [arXiv:2604.17686](https://arxiv.org/abs/2604.17686).
 - **S. Hutchinson**, A. P. Vinod, F. Germain, S. Di Cairano, C. R. Laughman, A. Chakrabarty, "Quantile-SMPC for Grid-Interactive Buildings with Multivariate Temporal Fusion Transformers," UrbanAI: Harnessing Artificial Intelligence for Smart Cities, *NeurIPS Workshop 2025*. [openreview.net/forum?id=hArraYIuFS](https://openreview.net/forum?id=hArraYIuFS).

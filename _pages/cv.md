@@ -48,11 +48,15 @@ Research topic: identification of low-order dynamics models for lithium batterie
 
 ## Honors and Awards
 
-- UCSB ECE Outstanding TA Award, June 2023
+- Wallace Kou Graduate Fellowship (UCSB), Spring 2026
+- ECE Dissertation Fellowship (UCSB), Spring 2026
+- Betty Elings Wells Fellowship (UCSB), Winter 2026
+- ECE Travel Grant (UCSB), Spring 2025
+- ECE Outstanding TA Award (UCSB), June 2023
 - NSF GRFP Honorable Mention, 2022
-- UCSB ECE Department Fellowship, Winter 2022
-- CSM EE Outstanding Graduating Senior, Spring 2021
-- Tau Beta Pi Honor Society, Fall 2020
+- Department Fellowship (UCSB), Winter 2022
+- Outstanding Graduating Senior in Electrical Engineering (CSM), Spring 2021
+- Tau Beta Pi Honor Society (CSM), Fall 2020
 
 ## Teaching Experience
 
