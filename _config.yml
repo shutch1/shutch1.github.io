@@ -26,9 +26,9 @@ author:
   avatar           : "IMG_5383.JPG"
   name             : "Spencer Hutchinson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Electrical and Computer Engineering at UC Santa Barbara."
+  bio              : "Machine Learning, Optimization & Control"
   location         : "Santa Barbara, CA"
-  employer         : "UC Santa Barbara"
+  employer         : # "UC Santa Barbara"
   uri              : "https://github.com/shutch1"
   email            : "spencer.hutch99@gmail.com" 
 
