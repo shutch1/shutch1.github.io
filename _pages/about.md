@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at the University of California, Santa Barbara, advised by Prof. Mahnoosh Alizadeh. My research focuses on safe learning and control with energy systems applications. This includes work on online optimization, bandit learning and adaptive control, as well as applications to pricing design in the electric grid.
+I completed my Ph.D. in Electrical and Computer Engineering at the University of California, Santa Barbara in September 2026, where I was advised by Prof. Mahnoosh Alizadeh. My work lies at the intersection of machine learning, optimization, and control, with a focus on developing algorithms that learn under uncertainty while satisfying operational constraints. This includes work on online optimization, bandit learning, and adaptive control, with applications to energy systems.
 
 I am also grateful to have done an internship at Mitsubishi Electric Research Laboratories (MERL) in summer 2025, where I worked on stochastic model predictive control with deep forecasting models for energy systems.
 
-My publications are listed [here](/publications/) and my CV is [here](/cv/).
+My publications are listed [here](/publications/) and my CV is [here](/cv/). My PhD defense slides can be found [here](/files/defense_handout.pdf).
 
 ## Selected Papers
 
